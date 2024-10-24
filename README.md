@@ -23,7 +23,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/Project-Build-an-ML-Pipeline-Starter.git
+git clone https://github.com/thompsoneod/Project-Build-an-ML-Pipeline-Starter.git
 ```
 
 and go into the repository:
@@ -148,6 +148,9 @@ If you are ok with that list, execute this command to clean them up:
 
 This will iterate over all the environments created by `mlflow` and remove them.
 
+WANDB Project url: https://wandb.ai/allen4-western-governors-university/nyc_airbnb?nw=nwuserallen4
+
+Github repo: https://github.com/thompsoneod/Project-Build-an-ML-Pipeline-Starter
 
 ## License
 
